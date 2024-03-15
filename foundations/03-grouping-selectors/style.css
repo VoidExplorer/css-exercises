@@ -1,0 +1,14 @@
+.clickthis, .noclickthis {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif
+}
+
+.clickthis {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.noclickthis {
+    background-color: yellow;
+}
